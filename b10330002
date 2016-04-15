@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="jumbotron" style="background-color: white ">
+   <h1>PineApple Kao</h1>
+  </div>
+  <div class="row" style="color: black">
+    <div class="col-sm-6">
+      <h1>基本資料</h1>
+      <p>Name: 高偉家</p>
+      <p>生日:1996.02.12</p>
+      <p>興趣:Information security</p>
+      
+    </div>
+    <div class="col-sm-6">
+      <h1>自我介紹</h1>
+      <p>
+      喜歡資訊安全和密碼等理論，
+      <br>
+      平常熱心於研討會和活動籌辦。
+      </p>
+     
+    </div>
+    
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
